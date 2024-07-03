@@ -33,3 +33,11 @@ description: Official servers owned by Discord.
 **Link:** [Discord Safety](https://discord.gg/safety)
 
 @gg/safety
+
+## Discord Roleplay Server
+
+> **Description:** An official Serious Roleplay Server for content creation and Simmers. Join and chat with us! <br/>
+**Link** [Discord Roleplay](https://discord.gg/brickzrp)
+
+
+@gg/brickzrp
